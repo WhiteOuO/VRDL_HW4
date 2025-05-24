@@ -12,8 +12,8 @@ Below are examples of restored images from the PromptIR model:
 
 <table>
   <tr>
-    <td><img src="Restored_image/0.jpg" width="256" height="256" alt="Restored Rain Image 1"></td>
-    <td><img src="degraded/0.jpg" width="256" height="256" alt="Restored Snow Image 1"></td>
+    <td><img src="Restored_image/0.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="degraded/0.png" width="256" height="256" alt="Restored Snow Image 1"></td>
   </tr>
 </table>
 
