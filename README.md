@@ -6,6 +6,7 @@ The task of this project is image restoration. The training and testing data hav
 The model architecture in this project is built upon the framework provided in this GitHub repository: https://github.com/va1shn9v/PromptIR  
 ## Environment:  
 You can refer to the environment setup recommendations suggested by the original author on GitHub.  
+You can also construct environment on Anaconda by importing env.yml.
 ## How to run
 ### Training
 Command:  
@@ -21,7 +22,7 @@ You can look up option.py to modify your requirements if you need.
 ## Image Restoration Results
 
 Below are examples of restored images from the PromptIR model:
-![image](https://github.com/user-attachments/assets/8691a850-b279-4189-8222-d74f3b67ffe0)
+![image](https://github.com/user-attachments/assets/7e51e672-d22c-4600-a38c-10c2eb1a89c1)
 <table>
   <tr>
     <td><img src="degraded/0.png" width="256" height="256" alt="Restored Snow Image 1"></td>
