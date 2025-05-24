@@ -24,22 +24,22 @@ Below are examples of restored images from the PromptIR model:
 ![image](https://github.com/user-attachments/assets/8691a850-b279-4189-8222-d74f3b67ffe0)
 <table>
   <tr>
-    <td><img src="Restored_image/0.png" width="256" height="256" alt="Restored Rain Image 1"></td>
     <td><img src="degraded/0.png" width="256" height="256" alt="Restored Snow Image 1"></td>
-    <td><img src="Restored_image/49.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="Restored_image/0.png" width="256" height="256" alt="Restored Rain Image 1"></td>
     <td><img src="degraded/49.png" width="256" height="256" alt="Restored Snow Image 1"></td>
+    <td><img src="Restored_image/49.png" width="256" height="256" alt="Restored Rain Image 1"></td>
   </tr>
   <tr>
-    <td><img src="Restored_image/84.png" width="256" height="256" alt="Restored Rain Image 1"></td>
     <td><img src="degraded/84.png" width="256" height="256" alt="Restored Snow Image 1"></td>
-    <td><img src="Restored_image/37.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="Restored_image/84.png" width="256" height="256" alt="Restored Rain Image 1"></td>
     <td><img src="degraded/37.png" width="256" height="256" alt="Restored Snow Image 1"></td>
+    <td><img src="Restored_image/37.png" width="256" height="256" alt="Restored Rain Image 1"></td>
   </tr>
   <tr>
-    <td><img src="Restored_image/3.png" width="256" height="256" alt="Restored Rain Image 1"></td>
     <td><img src="degraded/3.png" width="256" height="256" alt="Restored Snow Image 1"></td>
-    <td><img src="Restored_image/90.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="Restored_image/3.png" width="256" height="256" alt="Restored Rain Image 1"></td>
     <td><img src="degraded/90.png" width="256" height="256" alt="Restored Snow Image 1"></td>
+    <td><img src="Restored_image/90.png" width="256" height="256" alt="Restored Rain Image 1"></td>
   </tr>
 </table>
 
