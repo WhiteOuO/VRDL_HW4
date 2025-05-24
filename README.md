@@ -8,7 +8,10 @@ The model architecture in this project is built upon the framework provided in t
 You can construct environment on Anaconda by importing env.yml.  
 ## How to run
 ### Training
-Command:  
+1. You should create a folder to put your train and test data.  
+2. The directory inside the folder you created can be same as HW4's directory settings.  
+![image](https://github.com/user-attachments/assets/8c559850-9e17-4731-93bf-136a398ba2bb)
+3. Command:  
 ```bash
 python train2.py
 ```
