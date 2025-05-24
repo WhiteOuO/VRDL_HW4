@@ -14,13 +14,20 @@ Below are examples of restored images from the PromptIR model:
   <tr>
     <td><img src="Restored_image/0.png" width="256" height="256" alt="Restored Rain Image 1"></td>
     <td><img src="degraded/0.png" width="256" height="256" alt="Restored Snow Image 1"></td>
+    <td><img src="Restored_image/49.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="degraded/49.png" width="256" height="256" alt="Restored Snow Image 1"></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td><img src="images/restored_rain2.jpg" width="256" height="256" alt="Restored Rain Image 2"></td>
-    <td><img src="images/restored_snow2.jpg" width="256" height="256" alt="Restored Snow Image 2"></td>
+    <td><img src="Restored_image/84.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="degraded/84.png" width="256" height="256" alt="Restored Snow Image 1"></td>
+    <td><img src="Restored_image/37.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="degraded/37.png" width="256" height="256" alt="Restored Snow Image 1"></td>
+  </tr>
+  <tr>
+    <td><img src="Restored_image/3.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="degraded/3.png" width="256" height="256" alt="Restored Snow Image 1"></td>
+    <td><img src="Restored_image/90.png" width="256" height="256" alt="Restored Rain Image 1"></td>
+    <td><img src="degraded/90.png" width="256" height="256" alt="Restored Snow Image 1"></td>
   </tr>
 </table>
 
